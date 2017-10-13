@@ -5,11 +5,6 @@ import org.junit.Test;
 public class MyStackTest {
 
 
-	@Test
-	public void failingTest() {
-	    assertTrue(false);
-	}
-
 	@Test 
 	public void testPush()
 	   {
